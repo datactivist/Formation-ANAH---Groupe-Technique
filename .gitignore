@@ -1,3 +1,11 @@
+# Custom
+atelier_1/template.py
+atelier_1/extract.py
+atelier_1/test.csv
+atelier_2/CORRIGE_facilitateur.md
+atelier_2/arretes.db
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

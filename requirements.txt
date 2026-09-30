@@ -1,0 +1,3 @@
+spacy
+pdfplumber
+fr-core-news-sm
